@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=350&section=header&text=Welcome%20To%20d2vsoo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=350&section=header&text=Welcome%20To%20d2vsoo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=30)
 
 <div align="center">
   <h3> HELLO, I AM JISOO SHIN👋</h3>
