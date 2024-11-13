@@ -46,11 +46,6 @@
   </div>  
   <br> 
   <div align= "center">  </div> 
-  <div align= "center"> 
-  <a href="https://d2vsoo.tistory.com/"> 
-    <img src="https://img.shields.io/badge/https://d2vsoo.tistory.com/-EA63333?style=flat&logo=blog&logoColor=white"> 
-  </a>
-</div> 
 </div>
 
 <br>
