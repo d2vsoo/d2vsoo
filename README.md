@@ -46,6 +46,11 @@
   </div>  
   <br> 
   <div align= "center">  </div> 
+  <div align= "center"> 
+  <a href="https://d2vsoo.tistory.com/"> 
+    <img src="https://img.shields.io/badge/https://d2vsoo.tistory.com/-EA63333?style=flat&logo=blog&logoColor=white"> 
+  </a>
+</div> 
 </div>
 
 <br>
@@ -76,12 +81,7 @@
     <a href=mailto:d2vr1v2r@gmail.com> 
       <img src="https://img.shields.io/badge/d2vr1v2r@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:d2vr1v2r@gmail.com"> 
     </a>
-  </div>  
-  <div align= "center"> 
-    <a href="https://d2vsoo.tistory.com/"> 
-      <img src="https://img.shields.io/badge/https://d2vsoo.tistory.com/-EA4344?style=flat&logo=blog&logoColor=white"> 
-    </a>
-  </div>  
+  </div>   
   <br> 
   <div align= "center"></div> 
 </div>
