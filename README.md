@@ -9,7 +9,7 @@
 <br>
 
 <div align= "center">
-  <h3> 🛠️ Skills </h3>
+  <h3> 🛠️ 주요 Skills </h3>
  <br>
   <div style="margin: 0 auto; text-align: center;" align= "center">
     <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white">
@@ -20,6 +20,16 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
     <br/><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+  </div>
+</div>
+
+<br>
+<br>
+
+<div align= "center">
+  <h3> 🛠️ 공부한 Skills </h3>
+ <br>
+  <div style="margin: 0 auto; text-align: center;" align= "center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
@@ -35,9 +45,6 @@
   <h3> 🧑‍💻 Studying </h3> <br> 
   <div align= "center"> 
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white">
   </div>  
   <br> 
   <div align= "center">  </div> 
