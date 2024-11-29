@@ -2,12 +2,7 @@
 
 <div align="center">
   <h3> HELLO, I AM JISOO SHIN👋</h3>
-  <h6> Full-stack Developer </h6>
-  <br>
-  <p>💗 We strive to grow constantly using the past as a stepping stone.</p>
-  <p>💗 It has the ability to accept other people's opinions.</p>
-  <p>💗 Work meticulously and delicately on a planned basis.</p>
-  <p>💗 Communicate with an open mind.</p>
+  <h6> 목표는 Full-stack Developer </h6>
 </div>
 
 <br>
