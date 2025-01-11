@@ -54,8 +54,10 @@
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=Vue.js&logoColor=white"/>
     <br/>
+    <br/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=flat&logo=TailWind CSS&logoColor=white"/>
+    <br/>
     <br/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
