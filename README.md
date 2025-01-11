@@ -47,6 +47,7 @@
   <h3> 🧑‍💻 Studying </h3> <br> 
   <div align= "center"> 
     <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=flat&logo=TypeScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=flat&logo=TailWind CSS&logoColor=white/>"
   </div>  
   <br> 
   <div align= "center">  </div> 
