@@ -46,7 +46,7 @@
 <div align= "center">
   <h3> 🧑‍💻 Studying </h3> <br> 
   <div align= "center"> 
-    <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=flat&logo=TypeScript&logoColor=white" />
   </div>  
   <br> 
   <div align= "center">  </div> 
