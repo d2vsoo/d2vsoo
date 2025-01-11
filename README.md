@@ -52,7 +52,10 @@
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=flat&logo=TailWind CSS&logoColor=white"/>
   </div>  
   <br> 
-  <div align= "center">  </div> 
+  <div align= "center">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
+  </div> 
 </div>
 
 <br>
@@ -67,8 +70,6 @@
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
     <br/><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
   </div>  
   <br> 
   <div align= "center">  </div> 
